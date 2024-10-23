@@ -1,3 +1,3 @@
 # MY-python-project
-<h1>That is for my Python project</h1>
+<h2>That is for my Python project</h2>
 <h3>1 project in 3 days</h3>
